@@ -4,3 +4,4 @@
 <h1> new changes </h1>
 
 <h1> testing </h1>
+<h1> Poll scm checking as continous integration </h1>
